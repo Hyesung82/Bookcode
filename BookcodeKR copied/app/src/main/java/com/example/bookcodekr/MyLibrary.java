@@ -54,7 +54,12 @@ public class MyLibrary extends AppCompatActivity {
         requestLogout();
     }
 
+    public void listClick(View view) {
+        Intent intent = new Intent(this, BookList.class);
+        startActivity(intent);
+    }
 
+    public void cameraClick(View view) {
 
-
+    }
 }
