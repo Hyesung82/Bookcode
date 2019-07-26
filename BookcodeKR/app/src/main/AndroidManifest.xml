@@ -13,7 +13,24 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MyLibrary"></activity>
+        <activity android:name=".bookList"></activity>
+
+        <meta-data
+            android:name="com.google.android.actions"
+            android:resource="@xml/fragment1" />
+
+        <activity android:name=".myInfor" />
+        <activity
+            android:name=".bottomTab"
+            android:label="@string/title_activity_bottom_tab"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main2Activity"
+            android:label="@string/title_activity_main2" />
+        <activity
+            android:name=".MyLibraryInfor"
+            android:label="@string/title_activity_my_library_infor" />
+        <activity android:name=".MyLibrary" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
