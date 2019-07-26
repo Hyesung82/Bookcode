@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: :VuforiaWrapper:@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/a4879824bcc04cf3ede258506106f6bc6ae5cb5e/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/a4879824bcc04cf3ede258506106f6bc6ae5cb5e/output/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/a4879824bcc04cf3ede258506106f6bc6ae5cb5e/output/jars/libs/Vuforia.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/a4879824bcc04cf3ede258506106f6bc6ae5cb5e/output/jars/libs/VuforiaUnityPlayer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

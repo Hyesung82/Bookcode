@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\김혜성\.android\build-cache\a4879824bcc04cf3ede258506106f6bc6ae5cb5e\output\jars\libs\VuforiaUnityPlayer.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="b2a53d38a505be89060de16e0ff5280f5642c9da">
+        <dex dex="C:\Users\Public\forAndroid\AndroidStudioProjects\New Unity Project\build\intermediates\pre-dexed\debug\VuforiaUnityPlayer_15e685a136d69b2128cf5253513702e69ae8168d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Public\forAndroid\AndroidStudioProjects\New Unity Project\libs\unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="677bca05b5d3eb763c408a7d617e29b44ee27d3d">
+        <dex dex="C:\Users\Public\forAndroid\AndroidStudioProjects\New Unity Project\build\intermediates\pre-dexed\debug\unity-classes_c9d7fbd38e67e06f25ad0a883a6755d775da2139.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\김혜성\.android\build-cache\a4879824bcc04cf3ede258506106f6bc6ae5cb5e\output\jars\libs\Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="43e2c75a74132e6287974dcac936fa93db1f5f84">
+        <dex dex="C:\Users\Public\forAndroid\AndroidStudioProjects\New Unity Project\build\intermediates\pre-dexed\debug\Vuforia_a58722d5b941574f0c511b9303e97f33078437af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\김혜성\.android\build-cache\a4879824bcc04cf3ede258506106f6bc6ae5cb5e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="d46bca2836cb936675a51f8d54e3402015d835cb">
+        <dex dex="C:\Users\Public\forAndroid\AndroidStudioProjects\New Unity Project\build\intermediates\pre-dexed\debug\classes_ca0b812d162e1f220bfee7a763bd2171102d3af0.jar" />
+    </item>
+
+</items>
